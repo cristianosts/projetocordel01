@@ -89,13 +89,13 @@ section > p {
 }
 
 section#img01 {
-    background-image: url(../imagens/flowers.jpg);
+    background-image: url(flowers.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 section#img02 {
-    background-image: url(../imagens/pexels-cottonbro-3826667.jpg);
+    background-image: url(pexels-cottonbro-3826667.jpg);
     background-size: cover;
 }
 
